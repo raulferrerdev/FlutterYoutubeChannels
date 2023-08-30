@@ -60,41 +60,17 @@ Ready to embark on an inspiring Flutter journey? Explore our repository and igni
 
 [**Roman Just Codes**](https://www.youtube.com/@romanjustcodes): A channel with tutorials on building apps with Flutter.
 
+[**SeenickCode**](https://www.youtube.com/@seenickcode): A channel with tutorials on building apps with Flutter.
+
 [**Tadas Petra**](https://www.youtube.com/@tadaspetra): Tadas Petra is a YouTuber who teaches Flutter and Dart on his channel. His goal is to be able to explain complex concepts in an easy-to-understand manner.
+
+[**The Flutter Hub**](https://www.youtube.com/@TheFlutterHub): A channel with tutorials on building apps with Flutter.
 
 [**The Flutter Way**](https://www.youtube.com/c/theflutterway): A channel with tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
 
 [**The Net Ninja**](https://www.youtube.com/@NetNinja): The Net Ninja is a popular YouTube channel that offers a wide range of tutorials on various programming languages and frameworks, including Flutter. Their Flutter tutorial for beginners is a great place to start for anyone new to the framework.
 
 [**Techie Blossom**](https://www.youtube.com/@techieblossom): A channel with tutorials on building apps with Flutter.
-
-
-
-
-
-
-
-
-[**The Flutter Hub**](): A channel with tutorials on building apps with Flutter.
-
-[**Temi Codes**](): A channel with tutorials on building apps with Flutter.
-
-[**Hallden**](): A channel with tutorials on building apps with Flutter.
-
-[**Desi Coder**](): A channel with tutorials on building apps with Flutter.
-
-[**SeenickCode**](): A channel with tutorials on building apps with Flutter.
-
-[**Tech with Tim**](): A channel with tutorials on building apps with Flutter.
-
-[**React Bits**](): A channel with tutorials on building apps with Flutter.
-
-
-
-
-
-
-
 
 
 ## Spanish Channels
