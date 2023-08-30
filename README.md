@@ -77,6 +77,8 @@ Ready to embark on an inspiring Flutter journey? Explore our repository and igni
 
 [**Código Correcto**](https://www.youtube.com/@CodigoCorrecto): This channel teaches how to make mobile applications with Flutter from scratch. In their videos, you will learn the first steps, download and configure the Flutter SDK.
 
+[**DevTalles**](https://www.youtube.com/@DevTalles): This channel offers a variety of videos on topics such as SQL, Next.js, Flutter, and more.
+
 [**MoureDev by Brais Moure**](https://www.youtube.com/@mouredev): Brais Moure is a computer engineer who teaches programming and app development on his channel 'Moure Dev' to his more than 250,000 followers. He records Python, Android Studio, and Kotlin courses from the most basic to the most sophisticated. He also covers other tools such as Swift and Flutter and programs applications live.
 
 
