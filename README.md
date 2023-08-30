@@ -28,13 +28,21 @@ Ready to embark on an inspiring Flutter journey? Explore our repository and igni
 
 [**Academind**](https://www.youtube.com/@academind): Academind is a popular YouTube channel that offers a wide range of tutorials on various programming languages and frameworks, including Flutter.
 
+[**Code With Andrea**](https://www.youtube.com/@CodeWithAndrea): A channel with tutorials on building apps with Flutter.
+
 [**FilledStacks**](https://www.youtube.com/@FilledStacks): FilledStacks is a YouTube channel that offers tutorials on building complex UIs and architectures with Flutter.
+
+[**Fireship**](https://www.youtube.com/@Fireship): A channel focusing on application development with weekly videos about Flutter, JavaScript, and Firebase.
 
 [**Flutter**](https://www.youtube.com/@flutterdev): The official YouTube channel of the Flutter developer team, featuring informative videos about various widgets and new announcements.
 
 [**Flutter Community**](https://www.youtube.com/@FlutterCommunity): The Flutter Community channel on YouTube features upcoming videos and content from members of the Flutter community.
 
 [**Flutter Explained**](https://www.youtube.com/@FlutterExplained): Flutter Explained is a YouTube channel that offers tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
+
+[**FreeCodeCamp**](https://www.youtube.com/@freecodecamp): A channel with detailed Flutter (and much more) videos for beginner, intermediate, and advanced developers.
+
+[**Fun with Flutter**](https://www.youtube.com/@FunwithFlutter): A channel with tutorials on building apps with Flutter
 
 [**Reso Coder**](https://www.youtube.com/@ResoCoder): Reso Coder is a YouTube channel that offers tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
 
