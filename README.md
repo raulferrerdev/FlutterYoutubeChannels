@@ -26,6 +26,8 @@ Ready to embark on an inspiring Flutter journey? Explore our repository and igni
 
 [**Code With Andrea**](https://www.youtube.com/@CodeWithAndrea): A channel with tutorials on building apps with Flutter.
 
+[**Codepur**](https://www.youtube.com/@HelloCodepur): A channel with tutorials on building apps with Flutter.
+
 [**FilledStacks**](https://www.youtube.com/@FilledStacks): FilledStacks is a YouTube channel that offers tutorials on building complex UIs and architectures with Flutter.
 
 [**Fireship**](https://www.youtube.com/@Fireship): A channel focusing on application development with weekly videos about Flutter, JavaScript, and Firebase.
@@ -36,9 +38,19 @@ Ready to embark on an inspiring Flutter journey? Explore our repository and igni
 
 [**Flutter Explained**](https://www.youtube.com/@FlutterExplained): Flutter Explained is a YouTube channel that offers tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
 
+[**Flutter Mapp**](https://www.youtube.com/@FlutterMapp): A channel with tutorials on building apps with Flutter.
+
 [**FreeCodeCamp**](https://www.youtube.com/@freecodecamp): A channel with detailed Flutter (and much more) videos for beginner, intermediate, and advanced developers.
 
-[**Fun with Flutter**](https://www.youtube.com/@FunwithFlutter): A channel with tutorials on building apps with Flutter
+[**Fun with Flutter**](https://www.youtube.com/@FunwithFlutter): A channel with tutorials on building apps with Flutter.
+
+[**Hey Flutter**](https://www.youtube.com/@HeyFlutter): A channel with tutorials on building apps with Flutter.
+
+[**Majid Hajian**](https://www.youtube.com/@mhadaily): A channel with tutorials on building apps with Flutter.
+
+[**Marcus Ng**](https://www.youtube.com/@MarcusNg): A channel with tutorials on building apps with Flutter.
+
+[**Pooja Bhaumik**](https://www.youtube.com/@PoojaBhaumik1): A channel with tutorials on building apps with Flutter.
 
 [**Reso Coder**](https://www.youtube.com/@ResoCoder): Reso Coder is a YouTube channel that offers tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
 
@@ -46,10 +58,36 @@ Ready to embark on an inspiring Flutter journey? Explore our repository and igni
 
 [**Robert Brunhage**](https://www.youtube.com/@RobertBrunhage): Robert Brunhage is a software engineer, designer, and Flutter and Dart GDE from Sweden who shares his knowledge about Flutter and mobile multiplatform development on his YouTube channel.
 
+[**Roman Just Codes**](https://www.youtube.com/@romanjustcodes): A channel with tutorials on building apps with Flutter.
+
 [**Tadas Petra**](https://www.youtube.com/@tadaspetra): Tadas Petra is a YouTuber who teaches Flutter and Dart on his channel. His goal is to be able to explain complex concepts in an easy-to-understand manner.
+
+[**The Flutter Way**](https://www.youtube.com/c/theflutterway): A channel with tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
 
 [**The Net Ninja**](https://www.youtube.com/@NetNinja): The Net Ninja is a popular YouTube channel that offers a wide range of tutorials on various programming languages and frameworks, including Flutter. Their Flutter tutorial for beginners is a great place to start for anyone new to the framework.
 
+[**Techie Blossom**](https://www.youtube.com/@techieblossom): A channel with tutorials on building apps with Flutter.
+
+
+
+
+
+
+
+
+[**The Flutter Hub**](): A channel with tutorials on building apps with Flutter.
+
+[**Temi Codes**](): A channel with tutorials on building apps with Flutter.
+
+[**Hallden**](): A channel with tutorials on building apps with Flutter.
+
+[**Desi Coder**](): A channel with tutorials on building apps with Flutter.
+
+[**SeenickCode**](): A channel with tutorials on building apps with Flutter.
+
+[**Tech with Tim**](): A channel with tutorials on building apps with Flutter.
+
+[**React Bits**](): A channel with tutorials on building apps with Flutter.
 
 
 
