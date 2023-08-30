@@ -26,28 +26,39 @@ Ready to embark on an inspiring Flutter journey? Explore our repository and igni
 
 ## English Channels
 
-[**The Net Ninja**](https://www.youtube.com/@NetNinja): The Net Ninja is a popular YouTube channel that offers a wide range of tutorials on various programming languages and frameworks, including Flutter. Their Flutter tutorial for beginners is a great place to start for anyone new to the framework.
-
-[**Rivaan Ranawat**](https://www.youtube.com/c/rivaanranawat): Rivaan Ranawat is a YouTuber who offers a comprehensive 13-hour Flutter course for beginners. In this course, you'll learn how to build apps for multiple platforms using the Flutter framework.
-
-[**Flutter Community**](https://www.youtube.com/@FlutterCommunity): The Flutter Community channel on YouTube features upcoming videos and content from members of the Flutter community.
-
-[**Tadas Petra**](https://www.youtube.com/@tadaspetra): Tadas Petra is a YouTuber who teaches Flutter and Dart on his channel. His goal is to be able to explain complex concepts in an easy-to-understand manner.
-
-[**Robert Brunhage**](https://www.youtube.com/@RobertBrunhage): Robert Brunhage is a software engineer, designer, and Flutter and Dart GDE from Sweden who shares his knowledge about Flutter and mobile multiplatform development on his YouTube channel.
+[**Academind**](https://www.youtube.com/@academind): Academind is a popular YouTube channel that offers a wide range of tutorials on various programming languages and frameworks, including Flutter.
 
 [**FilledStacks**](https://www.youtube.com/@FilledStacks): FilledStacks is a YouTube channel that offers tutorials on building complex UIs and architectures with Flutter.
+
+[**Flutter**](https://www.youtube.com/@flutterdev): The official YouTube channel of the Flutter developer team, featuring informative videos about various widgets and new announcements.
+
+[**Flutter Community**](https://www.youtube.com/@FlutterCommunity): The Flutter Community channel on YouTube features upcoming videos and content from members of the Flutter community.
 
 [**Flutter Explained**](https://www.youtube.com/@FlutterExplained): Flutter Explained is a YouTube channel that offers tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
 
 [**Reso Coder**](https://www.youtube.com/@ResoCoder): Reso Coder is a YouTube channel that offers tutorials on building apps with Flutter, as well as tips and tricks for working with the framework.
 
-[**Academind**](https://www.youtube.com/@academind): Academind is a popular YouTube channel that offers a wide range of tutorials on various programming languages and frameworks, including Flutter.
+[**Rivaan Ranawat**](https://www.youtube.com/c/rivaanranawat): Rivaan Ranawat is a YouTuber who offers a comprehensive 13-hour Flutter course for beginners. In this course, you'll learn how to build apps for multiple platforms using the Flutter framework.
+
+[**Robert Brunhage**](https://www.youtube.com/@RobertBrunhage): Robert Brunhage is a software engineer, designer, and Flutter and Dart GDE from Sweden who shares his knowledge about Flutter and mobile multiplatform development on his YouTube channel.
+
+[**Tadas Petra**](https://www.youtube.com/@tadaspetra): Tadas Petra is a YouTuber who teaches Flutter and Dart on his channel. His goal is to be able to explain complex concepts in an easy-to-understand manner.
+
+[**The Net Ninja**](https://www.youtube.com/@NetNinja): The Net Ninja is a popular YouTube channel that offers a wide range of tutorials on various programming languages and frameworks, including Flutter. Their Flutter tutorial for beginners is a great place to start for anyone new to the framework.
+
+
+
+
+
+
+
+
 
 
 ## Spanish Channels
 
+[**Código Correcto**](https://www.youtube.com/@CodigoCorrecto): This channel teaches how to make mobile applications with Flutter from scratch. In their videos, you will learn the first steps, download and configure the Flutter SDK.
+
 [**MoureDev by Brais Moure**](https://www.youtube.com/@mouredev): Brais Moure is a computer engineer who teaches programming and app development on his channel 'Moure Dev' to his more than 250,000 followers. He records Python, Android Studio, and Kotlin courses from the most basic to the most sophisticated. He also covers other tools such as Swift and Flutter and programs applications live.
 
-[**Código Correcto**](https://www.youtube.com/@CodigoCorrecto): This channel teaches how to make mobile applications with Flutter from scratch. In their videos, you will learn the first steps, download and configure the Flutter SDK.
 
