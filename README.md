@@ -6,10 +6,6 @@ Welcome to the **FlutterTube Collective** – your one-stop destination for a cu
 
 🚀 **Diverse Content:** Our repository features a handpicked collection of YouTube channels that cover a wide spectrum of Flutter-related topics. From beginner-friendly tutorials and step-by-step guides to advanced architectural insights and cutting-edge techniques, we've got you covered.
 
-🎓 **Learning Pathways:** Are you new to Flutter? No worries! We've organized the channels into comprehensive learning pathways designed to guide you from the fundamentals to mastery. Follow these pathways to build a strong foundation and progress seamlessly through your Flutter journey.
-
-🔍 **Search and Discovery:** Looking for specific topics or issues? Our repository is equipped with a powerful search feature that allows you to find relevant videos, tutorials, and discussions across multiple channels. Never miss out on the latest insights and updates from the Flutter community.
-
 🌟 **Community-driven Curation:** Our collection is curated by Flutter enthusiasts, for Flutter enthusiasts. We encourage the community to suggest and contribute their favorite channels, ensuring that the repository remains up-to-date and reflective of the ever-evolving Flutter ecosystem.
 
 📅 **Up-to-date Resources:** Flutter evolves rapidly, and our repository keeps pace. You'll find the latest content reflecting the most recent Flutter releases and updates, helping you stay at the forefront of this dynamic framework.
